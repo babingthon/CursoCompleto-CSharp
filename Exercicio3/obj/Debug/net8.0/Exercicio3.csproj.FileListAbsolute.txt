@@ -1,0 +1,15 @@
+H:\GitHub\Curso_Poo_C#\Exercicio3\bin\Debug\net8.0\Exercicio3.exe
+H:\GitHub\Curso_Poo_C#\Exercicio3\bin\Debug\net8.0\Exercicio3.deps.json
+H:\GitHub\Curso_Poo_C#\Exercicio3\bin\Debug\net8.0\Exercicio3.runtimeconfig.json
+H:\GitHub\Curso_Poo_C#\Exercicio3\bin\Debug\net8.0\Exercicio3.dll
+H:\GitHub\Curso_Poo_C#\Exercicio3\bin\Debug\net8.0\Exercicio3.pdb
+H:\GitHub\Curso_Poo_C#\Exercicio3\obj\Debug\net8.0\Exercicio3.GeneratedMSBuildEditorConfig.editorconfig
+H:\GitHub\Curso_Poo_C#\Exercicio3\obj\Debug\net8.0\Exercicio3.AssemblyInfoInputs.cache
+H:\GitHub\Curso_Poo_C#\Exercicio3\obj\Debug\net8.0\Exercicio3.AssemblyInfo.cs
+H:\GitHub\Curso_Poo_C#\Exercicio3\obj\Debug\net8.0\Exercicio3.csproj.CoreCompileInputs.cache
+H:\GitHub\Curso_Poo_C#\Exercicio3\obj\Debug\net8.0\Exercicio3.sourcelink.json
+H:\GitHub\Curso_Poo_C#\Exercicio3\obj\Debug\net8.0\Exercicio3.dll
+H:\GitHub\Curso_Poo_C#\Exercicio3\obj\Debug\net8.0\refint\Exercicio3.dll
+H:\GitHub\Curso_Poo_C#\Exercicio3\obj\Debug\net8.0\Exercicio3.pdb
+H:\GitHub\Curso_Poo_C#\Exercicio3\obj\Debug\net8.0\Exercicio3.genruntimeconfig.cache
+H:\GitHub\Curso_Poo_C#\Exercicio3\obj\Debug\net8.0\ref\Exercicio3.dll
