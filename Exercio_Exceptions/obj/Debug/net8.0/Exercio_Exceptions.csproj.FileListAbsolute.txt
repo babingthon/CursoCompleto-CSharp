@@ -1,0 +1,15 @@
+H:\GitHub\Curso_Poo_C#\Exercio_Exceptions\bin\Debug\net8.0\Exercio_Exceptions.exe
+H:\GitHub\Curso_Poo_C#\Exercio_Exceptions\bin\Debug\net8.0\Exercio_Exceptions.deps.json
+H:\GitHub\Curso_Poo_C#\Exercio_Exceptions\bin\Debug\net8.0\Exercio_Exceptions.runtimeconfig.json
+H:\GitHub\Curso_Poo_C#\Exercio_Exceptions\bin\Debug\net8.0\Exercio_Exceptions.dll
+H:\GitHub\Curso_Poo_C#\Exercio_Exceptions\bin\Debug\net8.0\Exercio_Exceptions.pdb
+H:\GitHub\Curso_Poo_C#\Exercio_Exceptions\obj\Debug\net8.0\Exercio_Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+H:\GitHub\Curso_Poo_C#\Exercio_Exceptions\obj\Debug\net8.0\Exercio_Exceptions.AssemblyInfoInputs.cache
+H:\GitHub\Curso_Poo_C#\Exercio_Exceptions\obj\Debug\net8.0\Exercio_Exceptions.AssemblyInfo.cs
+H:\GitHub\Curso_Poo_C#\Exercio_Exceptions\obj\Debug\net8.0\Exercio_Exceptions.csproj.CoreCompileInputs.cache
+H:\GitHub\Curso_Poo_C#\Exercio_Exceptions\obj\Debug\net8.0\Exercio_Exceptions.sourcelink.json
+H:\GitHub\Curso_Poo_C#\Exercio_Exceptions\obj\Debug\net8.0\Exercio_Exceptions.dll
+H:\GitHub\Curso_Poo_C#\Exercio_Exceptions\obj\Debug\net8.0\refint\Exercio_Exceptions.dll
+H:\GitHub\Curso_Poo_C#\Exercio_Exceptions\obj\Debug\net8.0\Exercio_Exceptions.pdb
+H:\GitHub\Curso_Poo_C#\Exercio_Exceptions\obj\Debug\net8.0\Exercio_Exceptions.genruntimeconfig.cache
+H:\GitHub\Curso_Poo_C#\Exercio_Exceptions\obj\Debug\net8.0\ref\Exercio_Exceptions.dll
