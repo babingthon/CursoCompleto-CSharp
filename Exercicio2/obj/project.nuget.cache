@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "Ykw834mp5EjeoR3qAkzDE2Mjm1oOeSITKMSOSZgWIwy2WYmDuMDY+NpiVDI3Cs3gLb6fvQU4hmPtCsPJr6Ewaw==",
+  "dgSpecHash": "HE1/GL7RKkI2OJVM1UKryS0tkQlqHo8pTLJ/mrqjcbt1eA0RQ6B4CzgD7fr59G4TeZxX/1plHUum6sbFGd+L2Q==",
   "success": true,
   "projectFilePath": "H:\\GitHub\\Curso_Poo_C#\\Exercicio2\\Exercicio2.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Babingthon\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.15\\microsoft.windowsdesktop.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\Babingthon\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.15\\microsoft.netcore.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\Babingthon\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.15\\microsoft.aspnetcore.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\Babingthon\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.15\\microsoft.netcore.app.host.win-x64.7.0.15.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -1,0 +1,15 @@
+H:\GitHub\Curso_Poo_C#\Exercicio_Files\bin\Debug\net7.0\Exercicio_Files.exe
+H:\GitHub\Curso_Poo_C#\Exercicio_Files\bin\Debug\net7.0\Exercicio_Files.deps.json
+H:\GitHub\Curso_Poo_C#\Exercicio_Files\bin\Debug\net7.0\Exercicio_Files.runtimeconfig.json
+H:\GitHub\Curso_Poo_C#\Exercicio_Files\bin\Debug\net7.0\Exercicio_Files.dll
+H:\GitHub\Curso_Poo_C#\Exercicio_Files\bin\Debug\net7.0\Exercicio_Files.pdb
+H:\GitHub\Curso_Poo_C#\Exercicio_Files\obj\Debug\net7.0\Exercicio_Files.GeneratedMSBuildEditorConfig.editorconfig
+H:\GitHub\Curso_Poo_C#\Exercicio_Files\obj\Debug\net7.0\Exercicio_Files.AssemblyInfoInputs.cache
+H:\GitHub\Curso_Poo_C#\Exercicio_Files\obj\Debug\net7.0\Exercicio_Files.AssemblyInfo.cs
+H:\GitHub\Curso_Poo_C#\Exercicio_Files\obj\Debug\net7.0\Exercicio_Files.csproj.CoreCompileInputs.cache
+H:\GitHub\Curso_Poo_C#\Exercicio_Files\obj\Debug\net7.0\Exercicio_Files.sourcelink.json
+H:\GitHub\Curso_Poo_C#\Exercicio_Files\obj\Debug\net7.0\Exercicio_Files.dll
+H:\GitHub\Curso_Poo_C#\Exercicio_Files\obj\Debug\net7.0\refint\Exercicio_Files.dll
+H:\GitHub\Curso_Poo_C#\Exercicio_Files\obj\Debug\net7.0\Exercicio_Files.pdb
+H:\GitHub\Curso_Poo_C#\Exercicio_Files\obj\Debug\net7.0\Exercicio_Files.genruntimeconfig.cache
+H:\GitHub\Curso_Poo_C#\Exercicio_Files\obj\Debug\net7.0\ref\Exercicio_Files.dll
